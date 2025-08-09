@@ -23,4 +23,4 @@ Para cada algoritmo, você pode ajustar os parâmetros usando os controles na in
 ## Opção 2: Cloud Community do Streamlit
 
 Também é possível acessar a versão hospedada no cloud community no link abaixo:
-[Inserir link]
+[algoritmosderecorte.streamlit.app](https://algoritmosderecorte.streamlit.app/)
